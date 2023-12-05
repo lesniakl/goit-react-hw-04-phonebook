@@ -1,4 +1,4 @@
-# SimplePhonebook app v2
+# SimplePhonebook app v2.5
 
 This is a React app built using
 [Create React App](https://github.com/facebook/create-react-app) as a part of
